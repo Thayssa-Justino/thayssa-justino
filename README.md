@@ -1,5 +1,5 @@
 ### olá eu sou a thayssa justino 👊
-### estudante de engenharia de sorftware 
+### estudante de engenharia de software 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/thayssa_justino/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayssa-rayane-0956161b5/)
